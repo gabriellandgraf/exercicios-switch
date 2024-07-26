@@ -153,6 +153,10 @@ switch ($mes) {
     case 12:
         echo "Dezembro";
         break;
+    
+  default 13:
+    echo "ERRO";
+    break;
 }
 
 ?>
